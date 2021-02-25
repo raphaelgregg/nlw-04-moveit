@@ -2,7 +2,7 @@
 
 ## Projeto
 
-Rumo ao próximo nível
+Aula 1 - Rumo ao próximo nível
 No primeiro dia vamos conhecer os conceitos por trás de um front-end SPA, os principais fundamentos do React como componentes, propriedades, estado e ferramentas que funcionam por trás da biblioteca como Webpack e Babel. Além disso, daremos início ao desenvolvimento da aplicação move.it, criando a estrutura básica de componentes da página.
 
 * [ ] O que é React?
@@ -16,7 +16,7 @@ No primeiro dia vamos conhecer os conceitos por trás de um front-end SPA, os pr
 * [ ] Estilos Globais
 * [ ] Components: ExperienceBar
 
-Desvendando o Next.js
+Aulda 2 - Desvendando o Next.js
 Nesse segundo dia vamos aprender o que é Next.js e quando utilizar no desenvolvimento de aplicações React. Vamos também criar nossos próprios hooks dando vida às funcionalidades de countdown e ganho de experiência e leveis através de desafios.
 
 * [ ] Conhecendo o Next.js
@@ -27,7 +27,18 @@ Nesse segundo dia vamos aprender o que é Next.js e quando utilizar no desenvolv
 * [ ] Componente: CompletedChallenges
 * [ ] Componente: Countdown 
 
-#rumoaoproximonivel #jornadainfinita
+Aula 3 - Contexto e componentes
+Na terceiro aula realizaremos uma separação da aplicação em componentes menores e aplicaremos o conceito de contextos no React, responsável por compartilhar uma informação entre vários componentes em tela. Finalizaremos também a funcionalidade de desafios.
+
+* [ ] Finalizar countdown
+* [ ] Component: challengebox
+* [ ] Contextos no React
+* [ ] Criando contexto de desafios
+* [ ] Regras de negocio
+
+
+
+#rumoaoproximonivel #jornadainfinita #focopraticagrupo
 
 ## Techs 
 * [ ] Typescript
